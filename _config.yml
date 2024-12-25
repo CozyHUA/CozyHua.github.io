@@ -1,6 +1,6 @@
 # Site settings
 title: Inversion Problem | Full Waveform Inversion
-SEOTitle: 全波形反演(FWI)研究Blog(By RH.Chen)
+SEOTitle: 全波形反演(FWI)研究(By RH.Chen)
 header-img: img/post-bg-desk.jpg
 email: ruihua.chen@stu.xjtu.edu.cn
 description: "聚焦于地球物理学科中的全波形反演研究，结合深度学习中隐式神经表达与神经算子实现高效的参数反演和波动方程正演。"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/CozyHUA/cozyhuagithub.io.git" # you code reposi
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我们正在致力于通过隐式神经表达和神经算子学习来实现高效的全波形反演!!!"
+sidebar-about-description: "RH.Chen(陈瑞华)，西安交通大学数学与统计学院本科三年级，统计学专业。我们正在致力于通过隐式神经表达和神经算子学习来实现高效的全波形反演。"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
