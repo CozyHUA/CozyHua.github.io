@@ -1,13 +1,13 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Inversion Problem | Full Waveform Inversion
+SEOTitle: 全波形反演(FWI)研究Blog(By RH.Chen)
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: ruihua.chen@stu.xjtu.edu.cn
+description: "聚焦于地球物理学科中的全波形反演研究，结合深度学习中隐式神经表达与神经算子实现高效的参数反演和波动方程正演。"
+keyword: "RH.Chen, Full Waveform Inversion, Deep learning, Implicit Neural Representation, Neural Operator"
+url: "http://cozyhua.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/CozyHUA/cozyhuagithub.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
